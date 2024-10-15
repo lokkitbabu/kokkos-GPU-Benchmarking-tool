@@ -1,4 +1,3 @@
-# kokkos-GPU-Benchmarking-tool
 # Kokkos GPU Benchmarking Tool
 
 This repository contains a GPU benchmarking tool utilizing the [Kokkos](https://github.com/kokkos/kokkos) programming model. The tool is designed to evaluate the performance of various GPU architectures and provide insights into computational efficiency.
@@ -47,8 +46,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Kokkos](https://github.com/kokkos/kokkos) for providing the foundation for this benchmarking tool.
-- The open-source community for their contributions and support.
